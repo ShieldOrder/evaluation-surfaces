@@ -1,4 +1,3 @@
-cat > surfaces/execution-accountability.md <<'EOF'
 # Execution and Accountability Decision Surface
 
 Status: surface definition  
