@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Evaluation Surfaces
 
 Status: analytical infrastructure  
