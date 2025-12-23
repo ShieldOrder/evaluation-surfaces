@@ -1,4 +1,3 @@
-cat > surfaces/README.md <<'EOF'
 # Decision Surfaces
 
 Status: analytical taxonomy  
