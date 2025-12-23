@@ -1,56 +1,67 @@
 # Evaluation Surfaces
 
 Status: analytical infrastructure  
-Scope: governance evaluation semantics  
-Posture: descriptive, non-prescriptive
+Posture: descriptive, non-prescriptive  
+Scope: governance evaluation semantics
 
-This repository defines a taxonomy for evaluating governance decisions by
-separating **decision surfaces** from **legitimacy signals**.
+This repository defines a taxonomy for evaluating governance decisions by separating decision surfaces from legitimacy signals.
 
-It is not a governance proposal.
-It does not advocate mechanisms.
-It does not recommend reforms.
-It does not take positions.
+It is not a governance proposal. It does not advocate mechanisms. It does not recommend reforms. It does not take positions.
 
-Its sole purpose is to reduce category errors where a signal is applied to a
-decision type it cannot credibly evaluate.
+Its purpose is to reduce category errors where a signal is applied to a decision type it cannot credibly evaluate.
 
-## What this repository does
+## What this repository provides
 
 - Defines distinct classes of governance decisions ("decision surfaces")
-- Describes properties of common legitimacy signals
+- Describes properties and limits of common legitimacy signals
 - Documents failure modes when signals are misapplied
-- Provides neutral analytical language for precise governance discussion
+- Provides neutral analytical language for governance discussion
 
-## What this repository does not do
+## What this repository does not provide
 
-- Propose voting systems
-- Argue for or against coin voting
-- Recommend governance structures
-- Reference specific ZIPs, upgrades, or timelines
-- Make normative claims about legitimacy
+- No prescriptions, mandates, or enforcement
+- No scoring or ranking system
+- No authority claims, representation claims, or endorsements
+- No dispute resolution mechanism for legitimacy debates
 
-All signals discussed are treated as legitimate within their appropriate scope.
+## Repository structure
 
-## Structure
+- surfaces/  
+  Decision surface definitions and properties.
 
-- `surfaces/`  
-  Decision surface definitions (what kind of decision is being made)
+- signals/  
+  Legitimacy and evaluation signals, with their credible domains.
 
-- `signals/`  
-  Legitimacy signal properties (what a signal can and cannot measure)
+- failure-modes/  
+  Common errors and pathologies when signals are used outside their credible domains.
 
-- `failure-modes/`  
-  Common breakdown patterns when signal–surface fit is violated
+## How to use
 
-## Usage
+- Identify the decision surface first.
+- Identify which signals are being used to evaluate it.
+- Check whether the signal can credibly evaluate that surface.
+- If not, name the mismatch and the expected failure mode.
 
-This material is intended to be cited surgically in governance discussions to
-clarify *what is being decided* and *what evidence is being used*, without
-escalating into ideological debate.
+This is intended to improve clarity of discussion, not to settle disputes by fiat.
+
+## Versioning
+
+Current version is in `VERSION`.
+
+Versioning intent:
+- Patch releases may clarify language or framing without changing meaning.
+- Any change that alters meaning of a definition requires a version increment and changelog entry.
+- Prior versions remain accessible for historical comparison.
+
+## Interpretation and disagreement
+
+This taxonomy is one possible framing.
+
+Different observers or institutions may interpret these categories differently based on context, constraints, or governance norms.
+
+When interpretations conflict, this repository provides no resolution mechanism. Communities retain full discretion to interpret or disregard these definitions.
 
 ## License
 
-CC0 1.0 Universal  
-This work is dedicated to the public domain.
+CC0
 EOF
