@@ -118,4 +118,6 @@ This surface governs stewardship, not consensus.
 ## License
 
 CC0 1.0 Universal
+
+CC0 1.0 Universal
 EOF
