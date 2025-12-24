@@ -1,4 +1,3 @@
-cat > signals/committee-evaluation.md <<'EOF'
 # Committee Evaluation
 
 Status: signal definition  
@@ -49,7 +48,7 @@ Weak or invalid fit:
 - protocol correctness
 - preference and sentiment signaling at ecosystem scale
 
-Using committee judgment to assert correctness is a category error.
+Using committee judgment to assert correctness is commonly associated with category errors.
 
 ## Failure modes
 
@@ -61,7 +60,7 @@ Common failure modes include:
 - capture by narrative framing
 - deferral to external signals without scrutiny
 
-Committees evaluate within scope; scope violations undermine legitimacy.
+Committees evaluate within scope; scope violations are commonly associated with legitimacy erosion.
 
 ## Relationship to other signals
 
@@ -82,4 +81,3 @@ Beyond that boundary, it is advisory.
 ## License
 
 CC0 1.0 Universal
-EOF
