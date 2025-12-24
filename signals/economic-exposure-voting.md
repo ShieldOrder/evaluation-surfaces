@@ -7,7 +7,7 @@ Posture: descriptive, non-prescriptive
 ## Definition
 
 Economic exposure voting is a legitimacy signal that weights input according to
-economic exposure to an asset or system.
+economic exposure to an asset, protocol, or system.
 
 It is commonly implemented as stake-weighted or coin-weighted voting, but the
 core property is exposure alignment, not the mechanism itself.
@@ -50,7 +50,7 @@ Weak or invalid fit:
 - execution and accountability
 - resource allocation requiring fiduciary evaluation
 
-Using this signal outside its fitness domain creates category errors.
+Using this signal outside its fitness domain is commonly associated with category errors.
 
 ## Common misapplications
 
@@ -62,7 +62,7 @@ Failure modes occur when economic exposure voting is treated as:
 - proof of feasibility
 - a justification for bypassing verification
 
-These uses inflate preference into authority.
+These uses conflate preference with authority.
 
 ## Relationship to other signals
 
@@ -85,4 +85,3 @@ where preference is the relevant dimension.
 ## License
 
 CC0 1.0 Universal
-EOF
