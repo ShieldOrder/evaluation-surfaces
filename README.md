@@ -6,7 +6,7 @@ Scope: governance evaluation semantics
 
 This repository defines a taxonomy for evaluating governance decisions by separating decision surfaces from legitimacy signals.
 
-It is not a governance proposal.  It does not advocate mechanisms.  It does not recommend reforms.  It does not take positions.
+It is not a governance proposal. It does not advocate mechanisms, recommend reforms, or take positions.
 
 Its purpose is to reduce category errors where a signal is applied to a decision type it cannot credibly evaluate.
 
@@ -37,12 +37,12 @@ Its purpose is to reduce category errors where a signal is applied to a decision
 
 ## How to use
 
-- Identify the decision surface first.
-- Identify which signals are being used to evaluate it.
-- Check whether the signal can credibly evaluate that surface.
+- Observe the decision surface involved.
+- Observe which signals are being used to evaluate it.
+- Assess whether the signal can credibly evaluate that surface.
 - If not, name the mismatch and the expected failure mode.
 
-This is intended to improve clarity of discussion, not to settle disputes by fiat.
+This repository is intended to improve clarity of discussion, not to settle disputes by fiat.
 
 ## Versioning
 
@@ -50,15 +50,16 @@ Current version is in `VERSION`.
 
 Versioning intent:
 - Patch releases may clarify language or framing without changing meaning.
-- Any change that alters meaning of a definition requires a version increment and changelog entry.
+- Any change that alters the meaning of a definition requires a version increment and changelog entry.
 - Prior versions remain accessible for historical comparison.
 
 ## Interpretation and disagreement
 
 This taxonomy is one possible framing.
-Different observers or institutions may interpret these categories differently based on context, constraints, or governance norms.
-When interpretations conflict, this repository provides no resolution mechanism.  Communities retain full discretion to interpret or disregard these definitions.
-Disagreement should be framed as a category disagreement, not an attribution of intent.
+
+Different observers or institutions may interpret these categories differently based on context, constraints, or governance norms. When interpretations conflict, this repository provides no resolution mechanism. Communities retain full discretion to interpret or disregard these definitions.
+
+Disagreement may be framed as a category disagreement rather than an attribution of intent.
 
 ## Related Work
 
@@ -87,4 +88,3 @@ Each repository is standalone, non-authoritative, and may be adopted, ignored, o
 ## License
 
 CC0
-EOF
