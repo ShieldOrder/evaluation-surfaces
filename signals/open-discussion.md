@@ -52,7 +52,7 @@ Weak or invalid fit:
 - resource allocation
 - execution enforcement
 
-Treating discussion outcomes as binding authority is a category error.
+Treating discussion outcomes as binding authority is commonly associated with category errors.
 
 ## Failure modes
 
@@ -78,11 +78,10 @@ It should not substitute for them.
 
 ## Interpretation constraint
 
-Open discussion is advisory input only.
+Open discussion functions as advisory input.
 
 It informs judgment but does not bind outcomes.
 
 ## License
 
 CC0 1.0 Universal
-EOF
