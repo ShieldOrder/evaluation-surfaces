@@ -56,10 +56,9 @@ Versioning intent:
 ## Interpretation and disagreement
 
 This taxonomy is one possible framing.
-
 Different observers or institutions may interpret these categories differently based on context, constraints, or governance norms.
-
 When interpretations conflict, this repository provides no resolution mechanism. Communities retain full discretion to interpret or disregard these definitions.
+Disagreement should be framed as a category disagreement, not an attribution of intent.
 
 ## License
 
