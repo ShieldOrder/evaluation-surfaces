@@ -48,7 +48,7 @@ Weak or invalid fit:
 - preference and sentiment signaling
 - value tradeoff decisions absent correctness constraints
 
-Using expert review to infer preference is a category error.
+Using expert review to infer preference is commonly associated with category errors.
 
 ## Failure modes
 
@@ -76,9 +76,8 @@ Disagreement between experts and other signals is expected and unresolved here.
 
 Expert review provides correctness assessment, not legitimacy by itself.
 
-Correctness does not bind collective choice unless explicitly elevated to authority.
+Correctness does not bind collective choice unless a system explicitly elevates it to authority.
 
 ## License
 
 CC0 1.0 Universal
-EOF
